@@ -18,7 +18,6 @@ form.addEventListener('submit', function(event){
             result.innerHTML = `your bmi is ${bmi}, you are fit..!`;
         }else{
             result.innerHTML = `your bmi is ${bmi}, you are underweight`;
-            
         }
     }
     
